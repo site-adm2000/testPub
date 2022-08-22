@@ -5,3 +5,4 @@ print(Hello World Git)
 print('test-1a')
 'jhilkhkljo;'
 '1111111111'
+'26554697-09=-0\\='
